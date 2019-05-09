@@ -20,12 +20,12 @@ For further information on how to use the Random Text PHP script see <a href="re
 <ol>
 
 <li>
-<p>Random quote using Javascript:<br />
+<p>Random quote from C.S. Lewis using Javascript:<br />
 <script type="text/javascript" src="random.php?type=1"></script></p>
 </li>
 
 <li>
-<p>Random quote as a PHP include:<br />
+<p>Random quote from C.S. Lewis using a PHP include:<br />
 <?php $_GET['type'] = 0; include 'random.php'; ?></p>
 </li>
 
