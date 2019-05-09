@@ -13,7 +13,6 @@ $settings['text_from_file'] = 'quotes.txt';
 */
 $settings['quotes'] = array(
 'True humility is not thinking less of yourself; it is thinking of yourself less.',
-'You are never too old to set another goal or to dream a new dream.',
 'I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.',
 'We are what we believe we are.',
 'You can never get a cup of tea large enough or a book long enough to suit me.',
